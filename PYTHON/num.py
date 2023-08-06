@@ -26,18 +26,3 @@ elif (num1 < num3 and num2 < num3):
 
 print("\n합계는 %d이고 평균은 %d이다" %(sum , average))
 
-
-# number = int(input("1에서 5까지의 숫자를 입력하시오 : "))
-
-# if (number == 1):
-#         print("pig")
-# elif (number == 2):
-#         print("cat")
-# elif (number == 3):
-#         print("dog")
-# elif number == 4:
-#         print("lion")
-# elif number == 5:
-#         print("tiger")
-# else:
-#         print("1에서 5까지의 유효한 숫자를 입력해주세요.")
