@@ -11,3 +11,4 @@ v = int(input())
 # 리스트에서 특정 값의 개수는 다음과 같이 구합니다.
 
 print(num.count(v))
+
