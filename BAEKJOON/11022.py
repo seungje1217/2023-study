@@ -1,3 +1,4 @@
+# A+B-8
 def main():
     n = int(input())
 
