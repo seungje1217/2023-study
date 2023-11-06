@@ -1,4 +1,4 @@
-# 지하철 출근시간 최대 인원
+# 지하철 출근시간 승차 최대 인원
 import csv
 import pandas as pd
 
